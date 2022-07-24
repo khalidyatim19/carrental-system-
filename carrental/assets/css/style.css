@@ -1085,13 +1085,13 @@ nav.navbar {
   padding-left: 120px;
 }
 .banner_content h1 {
-  color: #ffffff;
+  color: #000000;
   font-size: 40px;
   line-height: 50px;
   text-transform: uppercase;
 }
 .banner_content p {
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
   font-weight: 400;
   line-height: 29px;
