@@ -70,6 +70,7 @@ echo "<script type='text/javascript'> document.location = 'change-password.php';
 
 
 									<button class="btn btn-primary btn-block" name="login" type="submit">LOGIN</button>
+									<button onclick="location.href='carrental\index.php'" class="btn btn-primary btn-block"  name="home" type="button">LOGIN</button>
 
 								</form>
 							</div>
