@@ -53,8 +53,8 @@ error_reporting(0);
       <div class="row">
         <div class="col-md-5 col-md-push-7">
           <div class="banner_content">
-          <h1>       </h1>
-            <p>       </p>
+          <h1>    .   </h1>
+            <p>.       </p>
             <a href="#" class="btn">Read More <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a> </div>
         </div>
       </div>
